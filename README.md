@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # flutter_demo_app
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutter_demo_app
+>>>>>>> 90a159d10c538e88270e0b4ca9db8df699d3d8b0
