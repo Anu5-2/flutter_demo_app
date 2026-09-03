@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "953527711219",
+    "project_id": "pet-zone-6a1ff",
+    "storage_bucket": "pet-zone-6a1ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953527711219:android:2b6bd3177afa9c44088e86",
+        "android_client_info": {
+          "package_name": "com.example.flutter_demo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNXIVKaZF0NhyyGSfgIQlmDxcGv-B5HgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
