@@ -1,7 +1,7 @@
 class AppConfig {
   static const String mqttBroker = String.fromEnvironment(
     'MQTT_BROKER',
-    defaultValue: 'a637034e3f614359bf12dfb1bf2faa0a.s1.eu.hivemq.cloud',
+    defaultValue: 'b2750bcdd7914c22b8d1944da437bd22.s1.eu.hivemq.cloud',
   );
 
   static const int mqttPort = int.fromEnvironment(
@@ -16,6 +16,6 @@ class AppConfig {
 
   static const String mqttPassword = String.fromEnvironment(
     'MQTT_PASSWORD',
-    defaultValue: 'eershANu@2468',
+    defaultValue: 'ashika14',
   );
 }
